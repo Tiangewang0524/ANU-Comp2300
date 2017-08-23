@@ -1,0 +1,13 @@
+Q1: D
+Q2: C
+Q3: D
+Q4: C
+Q5: A
+Q6: A
+Q7: D
+
+Q8: Because the stack pointer is difficult to take care?
+
+Q9: 0x7000 - 0x7FFF => 0x1000 => 2^12 = 4096 words
+
+Q10: 
